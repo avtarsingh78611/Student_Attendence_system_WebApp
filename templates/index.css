@@ -1,0 +1,7 @@
+.choose{
+	display: flex;
+	align-items: center;
+	border: 1px solid black;
+	box-shadow: 1px 0 5px black;
+	border-radius: 20px;
+}
